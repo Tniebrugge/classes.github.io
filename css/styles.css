@@ -1,0 +1,123 @@
+/**Section IDs**/
+#classes{
+    background-color:#dc3545;
+    color:white;
+}
+
+main {
+  position: relative;
+  width: 100%;
+  overflow:hidden;
+}
+
+/**Navbar CSS**/
+.navbar-brand{
+    font-size: 2vw !important;
+}
+
+.nav-link{
+    font-size: 1.5vw !important;
+}
+.navbar-nav > li{
+    padding-left: .5vw !important;
+    padding-right: .5vw !important;
+  }
+
+.navbar-light{
+    background-color:#343a40 !important;
+  }
+
+.dropdown-item{
+    font-size:1.5vw !important;
+}
+
+.brandLogo{
+    height:5vw;
+}
+
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #343a40 !important; 
+}
+
+.navbar-nav > li > .dropdown-menu a:hover { 
+    background-color: #dc3545 !important;
+}
+
+/**Scrolling Container CSS **/
+.scrollContainer{
+    padding: 2% 25%;
+
+}
+
+.classScrollContainer{
+    padding: 2% 10%;
+
+}
+/**Table CSS **/
+.tableAlign{
+    text-align:center;
+    height:350px;
+}
+
+.firstColumn{
+    padding-left:15%;
+}
+
+/**Carousel CSS **/
+.carousel-control-prev {
+    margin-left: -25px;
+}
+  
+.carousel-control-next {
+    margin-right: -25px;
+}
+
+.carouselImage{
+    height:50%;
+    width:50%;  
+}
+
+.accordion-item{
+    background-color:red;
+}
+
+.bg-dark{
+    color:white !important;
+}
+
+
+/**Individual class styles**/
+
+.classDescription{
+    font-size:20px;
+    padding:5.25%;
+}
+
+.classScrollContainer{
+    padding: 2% 10%;
+
+}
+.classScrollContainerWhite{
+    padding: 2% 10%;
+    background-color:white;
+}
+
+.aWhiteLink{
+    color:white;
+}
+
+.aRedLink{
+    color:red;
+}
+
+/**Footer Stuff**/
+#footer{
+    background-Color:#343a40;
+    color:#ffffff;
+    padding-top:2%;
+    padding-bottom:2%;
+    width:100%;
+    text-align:center;
+    font-size:2rem;
+}
+
